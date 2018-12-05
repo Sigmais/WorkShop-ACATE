@@ -15,3 +15,11 @@ X: {customData#x_g}
 Y: {customData#y_g}
 Z: {customData#z_g}
 ~~~
+
+## Downlink Data
+
+~~~
+
+{"3DFF7B":{"downlinkData":"0101000000000000"}}
+
+~~~
