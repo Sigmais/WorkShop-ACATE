@@ -27,4 +27,5 @@ Z: {customData#z_g}
 
 ## Links
 * http://backend.sigfox.com
+* https://buy.sigfox.com/activate
 * http://gist.github.com
